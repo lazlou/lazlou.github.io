@@ -13,6 +13,10 @@ git add <file/directory>
 ## add everything
 git add .
 
+# make a checkpoint of files, a "commit"
+## write a message to yourself, just to be kind to future leslie
+git commit -m "<message>"
+
 
 -------------------------------------------------
 
