@@ -1,0 +1,39 @@
+# git
+## (commands typically assume you are in the root directory of the repository)
+
+# create a local copy of some remote code
+git clone <url of git repo>
+
+# print the status of the current git repository
+git status
+
+# add files to the git repository, telling them they are to be tracked
+git add <file/directory>
+
+## add everything
+git add .
+
+
+-------------------------------------------------
+
+# shell commands
+
+# change directory
+cd <subdirectory>
+
+## relative directories
+
+# go a directory up
+
+cd ../
+
+# refer to the current directory
+
+cd ./
+
+# make directory
+
+mkdir <name of directory>
+
+
+
