@@ -17,6 +17,19 @@ git add .
 ## write a message to yourself, just to be kind to future leslie
 git commit -m "<message>"
 
+-------------------------------------------------
+# git basic workflow
+
+# 1. <edit some stuff>
+# 2. git add - add stuff to change
+# 3. git commit - describe what was changed
+# 4. git push - send it to the remote server (GitHub)
+
+
+# other workflow commands
+## open sublime text at current location
+subl ./
+
 
 -------------------------------------------------
 
