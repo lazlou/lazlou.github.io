@@ -1,3 +1,4 @@
 # Projects
 
-- [doomscroll](https://lharka.github.io/doomscroll/)
+- [heartpieces](https://lharka.github.io/heartpieces)
+- [waves](https://lharka.github.io/waves)
